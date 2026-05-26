@@ -1,0 +1,27 @@
+Product_Category,Total_Revenue,,,Revenue_Bracket,Orders,,,,,,
+Electronics,4200,,,1001-2000,2,,,,,,
+Clothing,1700,,,500-1000,3,,,,,,
+Furniture,4300,,,2001-3000,2,,,,,,
+,,,,,,,,,,,
+Product_Category,Average_Discount,,,,,,,,,,
+Electronics,15,,,,,,,,,,
+Clothing,1.666666667,,,,,,,,,,
+Furniture,20,,,Order_ID,Customer_Name,Email,Phone,Product_Category,Order_Date,Revenue,Discount (%)
+,,,,101,John Doe,john@email.com,9876543210,Electronics,31/12/2023,1200,10
+Month,Monthly_Revenue,,,102,Alice Smith,not_provided@email.com,9898989898,Clothing,05/01/2024,500,0
+2023-12,1200,,,103,Bob Miller,bob@email.com,Unknown,Electronics,01/12/2024,3000,20
+2024-01,500,,,105,David White,david@email.com,9123456789,Furniture,15/02/2024,2500,15
+2024-02,2500,,,106,Emma Brown,emma@email.com,9234567890,Clothing,03/08/2024,700,5
+2024-03,500,,,107,Chris Green,not_provided@email.com,9345678901,Furniture,10/04/2024,1800,25
+2024-04,1800,,,108,Alice Smith,alice@email.com,Unknown,Clothing,08/03/2024,500,0
+2024-08,700,,,,,,,,,,
+2024-12,3000,,,,,,,,,,
+,,,,,,,,,,,
+Revenue,Discount (%),,,,,,,,,,
+1200,10,,,,,,,,,,
+500,0,,,,,,,,,,
+3000,20,,,,,,,,,,
+2500,15,,,,,,,,,,
+700,5,,,,,,,,,,
+1800,25,,,,,,,,,,
+500,0,,,,,,,,,,
